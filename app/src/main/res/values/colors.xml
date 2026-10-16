@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="bg_surface">#161B22</color>
+    <color name="bg_card">#21262D</color>
+    <color name="bg_card_highlight">#30363D</color>
+
+    <!-- Brand / Accents -->
+    <color name="cyan_neon">#00E5FF</color>
+    <color name="cyan_dark">#0097A7</color>
+    <color name="primary_accent">#00E5FF</color>
+    <color name="primary_variant">#00B0FF</color>
+    <color name="secondary_accent">#7C4DFF</color>
+
+    <!-- Node States in SkillTree -->
+    <color name="node_locked">#374151</color>
+    <color name="node_locked_border">#4B5563</color>
+    <color name="node_available">#0284C7</color>
+    <color name="node_available_border">#38BDF8</color>
+    <color name="node_in_progress">#D97706</color>
+    <color name="node_in_progress_border">#FBBF24</color>
+    <color name="node_completed">#059669</color>
+    <color name="node_completed_border">#34D399</color>
+
+    <!-- Gamification & XP -->
+    <color name="gold_xp">#F59E0B</color>
+    <color name="gold_xp_glow">#FCD34D</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="text_muted">#6E7681</color>
+    <color name="text_accent">#38BDF8</color>
+
+    <!-- Connection lines -->
+    <color name="line_inactive">#30363D</color>
+    <color name="line_active">#00E5FF</color>
+    <color name="line_completed">#10B981</color>
+</resources>
